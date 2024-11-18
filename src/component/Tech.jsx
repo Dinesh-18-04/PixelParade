@@ -37,7 +37,7 @@ const collection = [
 const Tech = () => {
   return (
     <div className="md:px-24 px-5">
-      <div className="md:mb-10 mb-3">
+      <div className="md:my-10 my-3">
         <h1 className="md:text-4xl font-bold">Gaming Wallpapers</h1>
       </div>
       <div className=" flex  md:gap-5 gap-2 overflow-scroll no-scrollbar mb-3 md:mb-10">
